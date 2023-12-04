@@ -43,11 +43,15 @@ section#redes-sociais{
     background-color: transparent;
 }
 img.icone{
+    transition: 0.5s;
     width: 50px;
+    margin: 10px 0px;
     border-radius: 50%;
-    opacity: .5;
+    opacity: .8;
 }
 img.icone:hover{
+    transition: 0.5s;
     cursor: pointer;
     opacity: 1;
+    width: 55px;
 }
