@@ -28,6 +28,13 @@ section#iphone{
     height: 627px;
     background:transparent url('../imagens/frame-iphone.png') no-repeat fixed;
 }
+#iphone iframe{
+    position: absolute;
+    left: 23px;
+    top: 80px;
+    width: 271px;
+    height: 472px;
+}
 section#redes-sociais{
     position: absolute;
     right: 10px;
